@@ -1,6 +1,6 @@
 # 🌬️ Airyze AQI Monitor
 
-5th Semester Project
+5th Semester - Software Construction course project
 
 **Airyze AQI Monitor** is a comprehensive real-time air quality monitoring application that helps users track air pollution levels, view historical data, and receive personalized alerts. The application provides interactive maps, detailed pollutant information, and health recommendations based on current air quality conditions.
 
